@@ -1,0 +1,26 @@
+{
+    "nodes": [
+        { "data": { "id": "n1" } },
+        { "data": { "id": "n2" } },
+        { "data": { "id": "n3" } },
+        { "data": { "id": "n4" } },
+        { "data": { "id": "n5" } },
+        { "data": { "id": "n6" } },
+        { "data": { "id": "n7" } },
+        { "data": { "id": "n8" } },
+        { "data": { "id": "n9" } },
+        { "data": { "id": "n10" } }
+    ],
+    "edges": [
+        { "data": { "id": "a", "source": "n1", "target": "n2" } },
+        { "data": { "id": "b", "source": "n1", "target": "n4" } },
+        { "data": { "id": "c", "source": "n3", "target": "n2" } },
+        { "data": { "id": "d", "source": "n3", "target": "n4" } },
+        { "data": { "id": "e", "source": "n6", "target": "n3" } },
+        { "data": { "id": "f", "source": "n5", "target": "n7" } },
+        { "data": { "id": "g", "source": "n8", "target": "n3" } },
+        { "data": { "id": "h", "source": "n10", "target": "n3" } },
+        { "data": { "id": "i", "source": "n9", "target": "n5" } },
+        { "data": { "id": "j", "source": "n10", "target": "n2" } }
+    ]
+}
